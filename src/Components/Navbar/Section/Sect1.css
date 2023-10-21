@@ -1,0 +1,37 @@
+
+.mid-sec{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.college {
+    font-size: xx-large;
+}
+.first{
+    position: relative;
+}
+.second {
+    margin-top: -20px;
+    position: relative;
+}
+.para{
+    margin-left: 200px;
+}
+.btn1{
+    height: 2rem;
+    width: 6rem;
+    margin-left: 200px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+.btn2{
+    margin-left: 30px;
+    height: 2rem;
+    width: 6rem;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
